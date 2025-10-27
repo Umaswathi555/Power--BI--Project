@@ -28,4 +28,5 @@ It provides insights into yearly and monthly sales trends, top-selling products,
 ### 🧑‍💻 Author
 **Uma**  
 📍 Seychelles  
-💼 [Add your GitHub Portfolio or LinkedIn Link here]
+💼 https://umaswathi555.github.io/uma-port/
+
